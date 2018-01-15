@@ -1,0 +1,27 @@
+{
+  "name": "a",
+  "version": "1.8.4",
+  "description": "Helpful tool for getting lower and uppercase of the letter a.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funnbot/a.git"
+  },
+  "keywords": [
+    "Letter",
+    "A",
+    "a"
+  ],
+  "author": "Funnbot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funnbot/a/issues"
+  },
+  "homepage": "https://github.com/funnbot/a#readme"
+}
