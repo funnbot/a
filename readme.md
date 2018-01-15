@@ -1,6 +1,6 @@
 ## Usage
 ```js
-const a = require("a");
+const a = require("geta");
 
 let uppercase = false;
 const lower = a.GetLetter(uppercase);
