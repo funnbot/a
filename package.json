@@ -1,6 +1,6 @@
 {
   "name": "geta",
-  "version": "1.8.5",
+  "version": "1.8.6",
   "description": "Helpful tool for getting lower and uppercase of the letter a.",
   "main": "index.js",
   "directories": {
